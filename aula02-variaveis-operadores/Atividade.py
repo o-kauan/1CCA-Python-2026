@@ -8,6 +8,8 @@ if k == 2:
     print(f"Boa tarde {nome}")
 if k == 3:
     print(f"Boa noite {nome}")
+else:
+    print(f"Catapimbas você não sabe escolher um número entre 1 e 3")
 
 # DESAFIO 2
 dia = 21
