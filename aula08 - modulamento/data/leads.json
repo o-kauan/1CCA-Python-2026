@@ -1,8 +1,26 @@
- [
+[
   {
     "name": "Alexandre",
-    "email":"a@b.com",
-    "stage":"novo",
-    "created":"2026-09-11"
+    "email": "a@b.com",
+    "stage": "novo",
+    "created": "2026-09-11"
+  },
+  {
+    "name": "kauan",
+    "email": "kkauan.lima@fmail.com",
+    "stage": "Vendedor",
+    "created": "2026-09-18"
+  },
+  {
+    "name": "Maria",
+    "email": "Alexandre@gfmialsdm.com",
+    "stage": "Não",
+    "created": "2026-09-18"
+  },
+  {
+    "name": "Kauan",
+    "email": "a3s21 d",
+    "stage": "a23s1d",
+    "created": "2026-09-18"
   }
 ]
